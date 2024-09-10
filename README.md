@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Piotr+Grzegorzek!;" />
 </h1>
-<h3 align="center">I'm a passionate .NET software developer with a love for creating elegant and efficient solutions</h3>
+<h3 align="center">Passionate software developer with a love for creating elegant and efficient solutions</h3>
 <br/><br/>
 <h2 align="center">🔧 Technologies & Tools<br/><br/></h2><br/>
 <section align="center">
