@@ -27,7 +27,7 @@
 ## <div align="center">🔧 Other Technologies I've Worked With</div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SvelteKit-FF3E00?logo=svelte&logoColor=fff&style=flat" alt="SvelteKit" />
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=fff&style=flat" alt="Svelte" />
   <img src="https://img.shields.io/badge/WPF-512BD4?logo=dotnet&logoColor=fff&style=flat" alt="WPF" />
   <img src="https://img.shields.io/badge/Delphi-E62431?logo=delphi&logoColor=fff&style=flat" alt="Delphi" />
   <img src="https://img.shields.io/badge/Unity-FFF?logo=unity&logoColor=000&style=flat" alt="Unity">
