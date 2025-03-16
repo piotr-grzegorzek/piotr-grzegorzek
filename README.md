@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Drizzle-C5F74F?logo=drizzle&logoColor=000&style=flat" alt="Drizzle">
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat" alt="MySQL Badge">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=fff&style=flat" alt="MariaDB Badge">
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=flat" alt="SQLite Badge">
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat" alt="MongoDB">
   <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&style=flat" alt="JSON Badge">
 </p>
